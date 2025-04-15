@@ -1,3 +1,5 @@
+Steps:-
+
 🧱 1. Server Setup
   This system is built in PHP, so you need a local web server with PHP and MySQL support. That's where XAMPP or WAMP comes in.
   ✅ Step 1: Install XAMPP/WAMP
@@ -11,13 +13,13 @@ ________________________________________________________________________________
 💻 2. Project Download
   You need the actual HemoCare project files on your local server.
   Option 1: Manual Download
-      •	Go to the GitHub repo: 
+      •	Go to the GitHub repo: https://github.com/Harsha-096/HemoCare-Management-System.git
       •	Click Code > Download ZIP
       •	Extract it to: C:\xampp\htdocs\HemoCare
   Option 2: Git Clone (Command Line)
       If you have Git installed:
       cd C:\xampp\htdocs\
-      git clone https://github.com/Harsha-096/
+      git clone https://github.com/Harsha-096/HemoCare-Management-System.git
           ✅ This will download the project folder named HemoCare Management System into your local server directory.
 ________________________________________________________________________________________________________________________
 🛢️ 3. Database Setup
